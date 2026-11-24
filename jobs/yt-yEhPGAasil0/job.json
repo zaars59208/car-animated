@@ -1,0 +1,683 @@
+{
+  "version": 1,
+  "title": "ダイハツ タント",
+  "tagline": "",
+  "vehicleType": "suv",
+  "mode": "long",
+  "stage": "render",
+  "pace": "fast",
+  "language": "ja",
+  "burnCaptions": true,
+  "alsoShort": false,
+  "thumbnailText": "ダイハツ タント",
+  "thumbnailBadge": "徹底解説",
+  "price": "",
+  "priceLabel": "",
+  "dealer": "",
+  "contact": "",
+  "cta": "チャンネル登録お願いします",
+  "specs": [],
+  "voice": {
+    "enabled": true,
+    "voice": "am_michael",
+    "edgeVoice": "ja-JP-KeitaNeural",
+    "speed": 1.08
+  },
+  "images": [
+    {
+      "file": "01.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "02.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "03.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "04.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "05.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "06.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "07.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "08.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "09.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "10.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "11.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "12.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "13.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "14.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "15.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "16.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "17.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "18.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "19.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "20.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "21.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "22.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "23.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "24.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "25.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "26.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "27.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "28.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "29.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "30.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "31.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "32.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "33.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "34.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "35.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "36.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "37.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "38.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "39.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "40.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "41.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "42.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "43.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "44.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "45.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "46.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "47.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "48.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "49.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "50.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "51.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "52.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "53.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "54.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "55.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "56.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "57.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "58.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "59.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "60.jpg",
+      "caption": "",
+      "category": "auto"
+    }
+  ],
+  "remoteImages": [
+    {
+      "file": "01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Daihatsu_Tanto_Custom_2026Spring_at_Shin-Osaka_Station.jpg/1920px-Daihatsu_Tanto_Custom_2026Spring_at_Shin-Osaka_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Daihatsu_Tanto_Custom_2026Spring_at_Shin-Osaka_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Daihatsu_Tanto_X_Turbo_%22SA%22_interior.jpg/1920px-Daihatsu_Tanto_X_Turbo_%22SA%22_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Daihatsu_Tanto_X_Turbo_%22SA%22_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/2nd_generation_Daihatsu_Tanto_interior.jpg/1920px-2nd_generation_Daihatsu_Tanto_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/d/d7/2nd_generation_Daihatsu_Tanto_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/The_alloy_wheel_of_Daihatsu_Tanto_CUSTOM_RS_2WD_%285BA-LA650S-GBVZ%29.jpg/1920px-The_alloy_wheel_of_Daihatsu_Tanto_CUSTOM_RS_2WD_%285BA-LA650S-GBVZ%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/8/84/The_alloy_wheel_of_Daihatsu_Tanto_CUSTOM_RS_2WD_%285BA-LA650S-GBVZ%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "05.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/The_tie_wheel_of_Daihatsu_Tanto_X_2WD_%285BA-LA650S-GBGF%29.jpg/1920px-The_tie_wheel_of_Daihatsu_Tanto_X_2WD_%285BA-LA650S-GBGF%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/d/da/The_tie_wheel_of_Daihatsu_Tanto_X_2WD_%285BA-LA650S-GBGF%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Daihatsu_Tanto_CUSTOM_RS_2WD_%285BA-LA650S-GBVZ%29_interior.jpg/1920px-Daihatsu_Tanto_CUSTOM_RS_2WD_%285BA-LA650S-GBVZ%29_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Daihatsu_Tanto_CUSTOM_RS_2WD_%285BA-LA650S-GBVZ%29_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Daihatsu_Tanto_FunCross_Turbo_2WD_%285BA-LA650S-GBQZ%29_interior.jpg/1920px-Daihatsu_Tanto_FunCross_Turbo_2WD_%285BA-LA650S-GBQZ%29_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/3/30/Daihatsu_Tanto_FunCross_Turbo_2WD_%285BA-LA650S-GBQZ%29_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "08.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/The_tire_wheel_of_Daihatsu_Tanto_FunCross_Turbo_%285BA-LA650S-GBQZ%29.jpg/1920px-The_tire_wheel_of_Daihatsu_Tanto_FunCross_Turbo_%285BA-LA650S-GBQZ%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_tire_wheel_of_Daihatsu_Tanto_FunCross_Turbo_%285BA-LA650S-GBQZ%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "09.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/The_badge_of_Daihatsu_Tanto_FunCross_Turbo_2WD_%285BA-LA650S-GBQZ%29.jpg/1920px-The_badge_of_Daihatsu_Tanto_FunCross_Turbo_2WD_%285BA-LA650S-GBQZ%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/1/10/The_badge_of_Daihatsu_Tanto_FunCross_Turbo_2WD_%285BA-LA650S-GBQZ%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "10.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/The_tire_wheel_of_Daihatsu_Tanto_FunCross_Turbo_2WD_%285BA-LA650S-GBQZ%29.jpg/1920px-The_tire_wheel_of_Daihatsu_Tanto_FunCross_Turbo_2WD_%285BA-LA650S-GBQZ%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/c/c1/The_tire_wheel_of_Daihatsu_Tanto_FunCross_Turbo_2WD_%285BA-LA650S-GBQZ%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "11.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/The_tire_wheel_of_Daihatsu_Tanto_CUSTOM_RS%22Style_Selection%222WD_%285BA-LA650S-GBVZ%29.jpg/1920px-The_tire_wheel_of_Daihatsu_Tanto_CUSTOM_RS%22Style_Selection%222WD_%285BA-LA650S-GBVZ%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/c/c6/The_tire_wheel_of_Daihatsu_Tanto_CUSTOM_RS%22Style_Selection%222WD_%285BA-LA650S-GBVZ%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "12.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Daihatsu_Tanto_Sloper_L_Turn-seat_version_%286BA-LA650S-GBJF%29_front.jpg/1920px-Daihatsu_Tanto_Sloper_L_Turn-seat_version_%286BA-LA650S-GBJF%29_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Daihatsu_Tanto_Sloper_L_Turn-seat_version_%286BA-LA650S-GBJF%29_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "13.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Daihatsu_Tanto_Sloper_L_Turn-seat_version_%286BA-LA650S-GBJF%29_interior.jpg/1920px-Daihatsu_Tanto_Sloper_L_Turn-seat_version_%286BA-LA650S-GBJF%29_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Daihatsu_Tanto_Sloper_L_Turn-seat_version_%286BA-LA650S-GBJF%29_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "14.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Daihatsu_Tanto_Sloper_L_Turn-seat_version_%286BA-LA650S-GBJF%29_rear.jpg/1920px-Daihatsu_Tanto_Sloper_L_Turn-seat_version_%286BA-LA650S-GBJF%29_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Daihatsu_Tanto_Sloper_L_Turn-seat_version_%286BA-LA650S-GBJF%29_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "15.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/The_tire_wheel_of_Daihatsu_TANTO_CUSTOM_RS_2WD_%285BA-LA650S-GBVZ%29.jpg/1920px-The_tire_wheel_of_Daihatsu_TANTO_CUSTOM_RS_2WD_%285BA-LA650S-GBVZ%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/1/17/The_tire_wheel_of_Daihatsu_TANTO_CUSTOM_RS_2WD_%285BA-LA650S-GBVZ%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "16.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Daihatsu_TanTo_CUSTOM_RS%22Top_Edition_SA_III%22_%28DBA-LA600S-GBVZ%29_interior.jpg/1920px-Daihatsu_TanTo_CUSTOM_RS%22Top_Edition_SA_III%22_%28DBA-LA600S-GBVZ%29_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Daihatsu_TanTo_CUSTOM_RS%22Top_Edition_SA_III%22_%28DBA-LA600S-GBVZ%29_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "17.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Daihatsu_TanTo_X%22SA_III%22_%28DBA-LA600S-GBGF%29_interior.jpg/1920px-Daihatsu_TanTo_X%22SA_III%22_%28DBA-LA600S-GBGF%29_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/9/98/Daihatsu_TanTo_X%22SA_III%22_%28DBA-LA600S-GBGF%29_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "18.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/The_tire_wheel_of_Daihatsu_TanTo_X%22SA_III%22_%28DBA-LA600S-GBGF%29.jpg/1920px-The_tire_wheel_of_Daihatsu_TanTo_X%22SA_III%22_%28DBA-LA600S-GBGF%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/3/37/The_tire_wheel_of_Daihatsu_TanTo_X%22SA_III%22_%28DBA-LA600S-GBGF%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "19.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/The_tire_wheel_of_Daihatsu_Tanto_X_Turbo_2WD_%285BA-LA650S-GBGZ%29.jpg/1920px-The_tire_wheel_of_Daihatsu_Tanto_X_Turbo_2WD_%285BA-LA650S-GBGZ%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/d/d2/The_tire_wheel_of_Daihatsu_Tanto_X_Turbo_2WD_%285BA-LA650S-GBGZ%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "20.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Daihatsu_Tanto_X_Turbo_2WD_%285BA-LA650S-GBGZ%29_interior.jpg/1920px-Daihatsu_Tanto_X_Turbo_2WD_%285BA-LA650S-GBGZ%29_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Daihatsu_Tanto_X_Turbo_2WD_%285BA-LA650S-GBGZ%29_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "21.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/The_tire_wheel_of_Daihatsu_TanTo_CUSTOM_RS%22Top_Edition_SA_III%22_%28DBA-LA600S-GBVZ%29.jpg/1920px-The_tire_wheel_of_Daihatsu_TanTo_CUSTOM_RS%22Top_Edition_SA_III%22_%28DBA-LA600S-GBVZ%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/4/4c/The_tire_wheel_of_Daihatsu_TanTo_CUSTOM_RS%22Top_Edition_SA_III%22_%28DBA-LA600S-GBVZ%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "22.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Daihatsu_Tanto_Exe_Custom_interior.jpg/1920px-Daihatsu_Tanto_Exe_Custom_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/9/90/Daihatsu_Tanto_Exe_Custom_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "23.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Daihatsu_Tanto_Sloper_L_Turn-seat_version_%286BA-LA650S%29_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/1/16/Daihatsu_Tanto_Sloper_L_Turn-seat_version_%286BA-LA650S%29_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "24.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/2019_Daihatsu_Tanto_Custom_RS_2WD_660_5BA-LA650S_interior_%2820190722%29.jpg/1920px-2019_Daihatsu_Tanto_Custom_RS_2WD_660_5BA-LA650S_interior_%2820190722%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/f/f3/2019_Daihatsu_Tanto_Custom_RS_2WD_660_5BA-LA650S_interior_%2820190722%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "25.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Daihatsu_Tanto_2007_Welcome_Seat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/7/78/Daihatsu_Tanto_2007_Welcome_Seat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "26.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/2022_Daihatsu_Tanto_Custom_RS_rear.jpg/1920px-2022_Daihatsu_Tanto_Custom_RS_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/e/ed/2022_Daihatsu_Tanto_Custom_RS_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "27.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Daihatsu_Tanto_Custom_RS_%2723_%282%29.jpg/1920px-Daihatsu_Tanto_Custom_RS_%2723_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Daihatsu_Tanto_Custom_RS_%2723_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "28.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Moscow%2C_Daihatsu_Tanto%2C_Aug_2025_02.jpg/1920px-Moscow%2C_Daihatsu_Tanto%2C_Aug_2025_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Moscow%2C_Daihatsu_Tanto%2C_Aug_2025_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "29.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/2019-2022_Daihatsu_Tanto_Custom_RS.jpg/1920px-2019-2022_Daihatsu_Tanto_Custom_RS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/3/32/2019-2022_Daihatsu_Tanto_Custom_RS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "30.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/2019-2022_Daihatsu_Tanto_Custom_X_rear.jpg/1920px-2019-2022_Daihatsu_Tanto_Custom_X_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/8/83/2019-2022_Daihatsu_Tanto_Custom_X_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "31.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/4th_generation_Daihatsu_Tanto_X_rear.jpg/1920px-4th_generation_Daihatsu_Tanto_X_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/e/ef/4th_generation_Daihatsu_Tanto_X_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "32.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/4th_generation_Daihatsu_Tanto_X.jpg/1920px-4th_generation_Daihatsu_Tanto_X.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/9/9e/4th_generation_Daihatsu_Tanto_X.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "33.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Daihatsu_Tanto_L_in_Light_Green_Metallic_Opal%2C_front_right.jpg/1920px-Daihatsu_Tanto_L_in_Light_Green_Metallic_Opal%2C_front_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/5/55/Daihatsu_Tanto_L_in_Light_Green_Metallic_Opal%2C_front_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "34.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/2022_Daihatsu_Tanto_Custom_RS.jpg/1920px-2022_Daihatsu_Tanto_Custom_RS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/0/0d/2022_Daihatsu_Tanto_Custom_RS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "35.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/DAIHATSU_TANTO_%28LA600%29_MACAU.jpg/1920px-DAIHATSU_TANTO_%28LA600%29_MACAU.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/c/c2/DAIHATSU_TANTO_%28LA600%29_MACAU.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "36.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/DAIHATSU_TANTO_%28LA600%29_MACAU_%282%29.jpg/1920px-DAIHATSU_TANTO_%28LA600%29_MACAU_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/9/9e/DAIHATSU_TANTO_%28LA600%29_MACAU_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "37.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Daihatsu_Tanto%2C_Washinomiya%2C_Saitama%2C_Japan.jpg/1920px-Daihatsu_Tanto%2C_Washinomiya%2C_Saitama%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/1/15/Daihatsu_Tanto%2C_Washinomiya%2C_Saitama%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "38.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Daihatsu_Tanto_Custom_2026Spring.jpg/1920px-Daihatsu_Tanto_Custom_2026Spring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/d/db/Daihatsu_Tanto_Custom_2026Spring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "39.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Daihatsu_Tanto_FunCross_Turbo.jpg/1920px-Daihatsu_Tanto_FunCross_Turbo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Daihatsu_Tanto_FunCross_Turbo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "40.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Daihatsu_Tanto_Custom_2023-05.jpg/1920px-Daihatsu_Tanto_Custom_2023-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/6/66/Daihatsu_Tanto_Custom_2023-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "41.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Daihatsu_TantoX_2023-02.jpg/1920px-Daihatsu_TantoX_2023-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Daihatsu_TantoX_2023-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "42.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Daihatsu_Tanto_G_Special_%2712_%282%29.jpg/1920px-Daihatsu_Tanto_G_Special_%2712_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Daihatsu_Tanto_G_Special_%2712_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "43.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Daihatsu_Tanto_Custom_RS_%2723_%281%29.jpg/1920px-Daihatsu_Tanto_Custom_RS_%2723_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Daihatsu_Tanto_Custom_RS_%2723_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "44.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Moscow%2C_Daihatsu_Tanto%2C_Aug_2025_01.jpg/1920px-Moscow%2C_Daihatsu_Tanto%2C_Aug_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Moscow%2C_Daihatsu_Tanto%2C_Aug_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "45.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Moscow%2C_Daihatsu_Tanto_%283rd_gen%29_Custom_grey%2C_Nov_2025_02.jpg/1920px-Moscow%2C_Daihatsu_Tanto_%283rd_gen%29_Custom_grey%2C_Nov_2025_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Moscow%2C_Daihatsu_Tanto_%283rd_gen%29_Custom_grey%2C_Nov_2025_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "46.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Moscow%2C_Daihatsu_Tanto_%283rd_gen%29_Custom_grey%2C_Nov_2025_03.jpg/1920px-Moscow%2C_Daihatsu_Tanto_%283rd_gen%29_Custom_grey%2C_Nov_2025_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Moscow%2C_Daihatsu_Tanto_%283rd_gen%29_Custom_grey%2C_Nov_2025_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "47.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Moscow%2C_Daihatsu_Tanto%2C_July_2025_02.jpg/1920px-Moscow%2C_Daihatsu_Tanto%2C_July_2025_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Moscow%2C_Daihatsu_Tanto%2C_July_2025_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "48.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Daihatsu_Tanto_G_Special_%2712_%281%29.jpg/1920px-Daihatsu_Tanto_G_Special_%2712_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/6/61/Daihatsu_Tanto_G_Special_%2712_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "49.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Daihatsu_Tanto_Custom_RS_Turbo_0244.JPG/1920px-Daihatsu_Tanto_Custom_RS_Turbo_0244.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/6/65/Daihatsu_Tanto_Custom_RS_Turbo_0244.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "50.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Daihatsu_Tanto_Custom_G_L385S_0224.JPG/1920px-Daihatsu_Tanto_Custom_G_L385S_0224.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Daihatsu_Tanto_Custom_G_L385S_0224.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "51.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Daihatsu_Tanto_G_L385S_Rear_00224.JPG/1920px-Daihatsu_Tanto_G_L385S_Rear_00224.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/3/31/Daihatsu_Tanto_G_L385S_Rear_00224.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "52.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Daihatsu_Tanto_FunCross_NA.jpg/1920px-Daihatsu_Tanto_FunCross_NA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/9/97/Daihatsu_Tanto_FunCross_NA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "53.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Daihatsu_Tanto_Exe_Custom_G_0404.JPG/1920px-Daihatsu_Tanto_Exe_Custom_G_0404.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Daihatsu_Tanto_Exe_Custom_G_0404.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "54.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Daihatsu_Tanto_1st_Gen_Camo.jpg/1920px-Daihatsu_Tanto_1st_Gen_Camo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Daihatsu_Tanto_1st_Gen_Camo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "55.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Daihatsu_Tanto_3rd_Gen.jpg/1920px-Daihatsu_Tanto_3rd_Gen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Daihatsu_Tanto_3rd_Gen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "56.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Daihatsu_Tanto%2C_Nagoji_Temple.jpg/1920px-Daihatsu_Tanto%2C_Nagoji_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Daihatsu_Tanto%2C_Nagoji_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "57.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Daihatsu_Tanto_Expo_Nara_Station.jpg/1920px-Daihatsu_Tanto_Expo_Nara_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/8/84/Daihatsu_Tanto_Expo_Nara_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "58.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/2nd_generation_Daihatsu_Tanto.jpg/1920px-2nd_generation_Daihatsu_Tanto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/7/7f/2nd_generation_Daihatsu_Tanto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "59.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Daihatsu_Tanto_Custom_%2814320472140%29.jpg/1920px-Daihatsu_Tanto_Custom_%2814320472140%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Daihatsu_Tanto_Custom_%2814320472140%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "60.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Daihatsu_Tanto_Custom_%2814320520338%29.jpg/1920px-Daihatsu_Tanto_Custom_%2814320520338%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/7/71/Daihatsu_Tanto_Custom_%2814320520338%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  ],
+  "heroIndex": 0,
+  "facts": {},
+  "pros": "",
+  "cons": "",
+  "descriptionTitle": "タント2026解禁！全モデルチェンジ!",
+  "hashtags": [
+    "#ダイハツタント",
+    "#DaihatsuTanto",
+    "#HondaDaihatsuTanto",
+    "#Honda",
+    "#新型車",
+    "#車レビュー",
+    "#自動車"
+  ],
+  "credits": [
+    "Mr.ちゅらさん (Wikimedia Commons): CC BY-SA 3.0, CC BY 4.0, CC BY-SA 4.0 ×2",
+    "TTTNIS (Wikimedia Commons): CC0 ×9, Public domain ×3",
+    "Tokumeigakarinoaoshima (Wikimedia Commons): CC BY-SA 4.0 ×19",
+    "オーバードライブ83 (Wikimedia Commons): CC BY-SA 4.0",
+    "Tsukuba2000 (Wikimedia Commons): Public domain",
+    "Oq10pass (Wikimedia Commons): CC0 ×4",
+    "Retired electrician (Wikimedia Commons): CC0 ×5",
+    "Mr.choppers (Wikimedia Commons): CC BY-SA 4.0",
+    "Dinkun Chen (Wikimedia Commons): CC BY-SA 4.0 ×2",
+    "Vasconium (Wikimedia Commons): CC BY-SA 2.0",
+    "DY5W-sport (Wikimedia Commons): CC BY-SA 3.0 ×4",
+    "MikaPr65 (Wikimedia Commons): CC BY-SA 4.0 ×4",
+    "Rutger van der Maar from Leiden, The Netherlands (Wikimedia Commons): CC BY 2.0 ×2",
+    "全写真クレジット: https://github.com/zaars59208/car-animated/blob/main/jobs/yt-yEhPGAasil0/credits.txt"
+  ],
+  "decor": {
+    "frame": true,
+    "stickers": true,
+    "stickerEvery": 60,
+    "maxStickers": 1
+  },
+  "transitionSfx": 0.35,
+  "sourceVideo": "yEhPGAasil0",
+  "youtube": {
+    "queueId": "yEhPGAasil0",
+    "title": "タント2026解禁！全モデルチェンジ!",
+    "tags": [
+      "ダイハツタント",
+      "DaihatsuTanto",
+      "HondaDaihatsuTanto",
+      "Honda",
+      "新型車",
+      "車レビュー",
+      "自動車"
+    ],
+    "categoryId": "2",
+    "publishAt": "2026-11-25T09:00:00Z"
+  }
+}
