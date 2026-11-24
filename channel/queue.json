@@ -51,14 +51,16 @@
    "title": "ついに公開！2027年トヨタGRスターレット完全復活 — 28年の沈黙を破った伝説の真実",
    "url": "https://www.youtube.com/watch?v=LnPAPc3b6pw",
    "durationSec": 780,
-   "status": "making",
+   "status": "made",
    "publishAt": "2026-11-26T09:00:00Z",
    "refPublished": null,
    "job": "yt-LnPAPc3b6pw",
    "startedAt": "2026-11-24T10:14:31+00:00",
    "car": "Toyota Starlet",
    "myTitle": "トヨタが復活させた伝説のスポーツクルマ！GRスターレット",
-   "note": ""
+   "note": "",
+   "release": "https://github.com/zaars59208/car-animated/releases/tag/video-yt-LnPAPc3b6pw",
+   "madeAt": "2026-11-24T10:47:30.489967+00:00"
   },
   {
    "id": "2aWoMij4dZY",
