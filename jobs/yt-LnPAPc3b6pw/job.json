@@ -1,0 +1,693 @@
+{
+  "version": 1,
+  "title": "トヨタ スターレット",
+  "tagline": "",
+  "vehicleType": "sports",
+  "mode": "long",
+  "stage": "render",
+  "pace": "fast",
+  "language": "ja",
+  "burnCaptions": true,
+  "alsoShort": false,
+  "thumbnailText": "トヨタ スターレット",
+  "thumbnailBadge": "徹底解説",
+  "price": "",
+  "priceLabel": "",
+  "dealer": "",
+  "contact": "",
+  "cta": "チャンネル登録お願いします",
+  "specs": [],
+  "voice": {
+    "enabled": true,
+    "voice": "am_michael",
+    "edgeVoice": "ja-JP-KeitaNeural",
+    "speed": 1.08
+  },
+  "images": [
+    {
+      "file": "01.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "02.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "03.jpg",
+      "caption": "",
+      "category": "engine"
+    },
+    {
+      "file": "04.jpg",
+      "caption": "",
+      "category": "engine"
+    },
+    {
+      "file": "05.jpg",
+      "caption": "",
+      "category": "engine"
+    },
+    {
+      "file": "06.jpg",
+      "caption": "",
+      "category": "engine"
+    },
+    {
+      "file": "07.jpg",
+      "caption": "",
+      "category": "engine"
+    },
+    {
+      "file": "08.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "09.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "10.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "11.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "12.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "13.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "14.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "15.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "16.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "17.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "18.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "19.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "20.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "21.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "22.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "23.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "24.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "25.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "26.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "27.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "28.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "29.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "30.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "31.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "32.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "33.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "34.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "35.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "36.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "37.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "38.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "39.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "40.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "41.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "42.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "43.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "44.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "45.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "46.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "47.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "48.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "49.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "50.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "51.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "52.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "53.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "54.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "55.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "56.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "57.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "58.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "59.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "60.jpg",
+      "caption": "",
+      "category": "auto"
+    }
+  ],
+  "remoteImages": [
+    {
+      "file": "01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Toyota_Starlet_en_Klintehamn.jpg/1920px-Toyota_Starlet_en_Klintehamn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Toyota_Starlet_en_Klintehamn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/1984_Toyota_Starlet_P60_hatchback_interior%2C_05-05-2024.jpg/1920px-1984_Toyota_Starlet_P60_hatchback_interior%2C_05-05-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/6/6d/1984_Toyota_Starlet_P60_hatchback_interior%2C_05-05-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Toyota_Starlet_1.5_XR_Auto_%282022%29.jpg/1920px-Toyota_Starlet_1.5_XR_Auto_%282022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/4/44/Toyota_Starlet_1.5_XR_Auto_%282022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Toyota_Starlet_1.5_XR_Auto_%282023%29.jpg/1920px-Toyota_Starlet_1.5_XR_Auto_%282023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/5/51/Toyota_Starlet_1.5_XR_Auto_%282023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "05.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Toyota_Starlet_1.5_XR_Auto_%282022%29_%2852721103293%29.jpg/1920px-Toyota_Starlet_1.5_XR_Auto_%282022%29_%2852721103293%29.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/0/06/Toyota_Starlet_1.5_XR_Auto_%282022%29_%2852721103293%29.jpg"
+    },
+    {
+      "file": "06.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Toyota_Starlet_1.5_XR_Auto_%282023%29_%2852715751256%29.jpg/1920px-Toyota_Starlet_1.5_XR_Auto_%282023%29_%2852715751256%29.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Toyota_Starlet_1.5_XR_Auto_%282023%29_%2852715751256%29.jpg"
+    },
+    {
+      "file": "07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Toyota_Starlet_Liss%C3%A9_%281980%29_%2853626392802%29.jpg/1920px-Toyota_Starlet_Liss%C3%A9_%281980%29_%2853626392802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Toyota_Starlet_Liss%C3%A9_%281980%29_%2853626392802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "08.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Toyota_Starlet_1.3XLi_%281993%29_%2850962979447%29.jpg/1920px-Toyota_Starlet_1.3XLi_%281993%29_%2850962979447%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Toyota_Starlet_1.3XLi_%281993%29_%2850962979447%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "09.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/1982_Toyota_Starlet_1.3_Interior.jpg/1920px-1982_Toyota_Starlet_1.3_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/5/51/1982_Toyota_Starlet_1.3_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "10.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Rough_early_Toyota_Starlet_1978-80_60_series._%2810714063473%29.jpg/1920px-Rough_early_Toyota_Starlet_1978-80_60_series._%2810714063473%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Rough_early_Toyota_Starlet_1978-80_60_series._%2810714063473%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "11.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Rough_early_Toyota_Starlet_1978-80_60_series._%2810714090603%29.jpg/1920px-Rough_early_Toyota_Starlet_1978-80_60_series._%2810714090603%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/1/16/Rough_early_Toyota_Starlet_1978-80_60_series._%2810714090603%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "12.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/1997_Toyota_Starlet_%287748993062%29.jpg/1920px-1997_Toyota_Starlet_%287748993062%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/f/f5/1997_Toyota_Starlet_%287748993062%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "13.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/1979_Toyota_Starlet_%286279060466%29.jpg/1920px-1979_Toyota_Starlet_%286279060466%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/8/87/1979_Toyota_Starlet_%286279060466%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "14.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/1986_Toyota_Starlet_1.3_DX_Automatic_%26_2020_Toyota_Yaris_1.5_Hybrid.jpg/1920px-1986_Toyota_Starlet_1.3_DX_Automatic_%26_2020_Toyota_Yaris_1.5_Hybrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/0/08/1986_Toyota_Starlet_1.3_DX_Automatic_%26_2020_Toyota_Yaris_1.5_Hybrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "15.jpg",
+      "url": "https://live.staticflickr.com/6050/6279060466_c563825f1b_b.jpg",
+      "fallback": "https://live.staticflickr.com/6050/6279060466_c563825f1b_b.jpg"
+    },
+    {
+      "file": "16.jpg",
+      "url": "https://live.staticflickr.com/2882/10629207196_bb6ce1cc06_b.jpg",
+      "fallback": "https://live.staticflickr.com/2882/10629207196_bb6ce1cc06_b.jpg"
+    },
+    {
+      "file": "17.jpg",
+      "url": "https://live.staticflickr.com/2943/15258531949_1b8d84f37a_b.jpg",
+      "fallback": "https://live.staticflickr.com/2943/15258531949_1b8d84f37a_b.jpg"
+    },
+    {
+      "file": "18.jpg",
+      "url": "https://live.staticflickr.com/8429/7703306672_18467a3380_b.jpg",
+      "fallback": "https://live.staticflickr.com/8429/7703306672_18467a3380_b.jpg"
+    },
+    {
+      "file": "19.jpg",
+      "url": "https://live.staticflickr.com/1089/5135611762_e83a95437a_b.jpg",
+      "fallback": "https://live.staticflickr.com/1089/5135611762_e83a95437a_b.jpg"
+    },
+    {
+      "file": "20.jpg",
+      "url": "https://live.staticflickr.com/3078/2469801140_e5a5314ae7_b.jpg",
+      "fallback": "https://live.staticflickr.com/3078/2469801140_e5a5314ae7_b.jpg"
+    },
+    {
+      "file": "21.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Toyota_Starlet_S.jpg/1920px-Toyota_Starlet_S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/5/59/Toyota_Starlet_S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "22.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Toyota_Starlet_Carat_5-door_in_Dark_Blue_Mica_Metallic%2C_front_left.jpg/1920px-Toyota_Starlet_Carat_5-door_in_Dark_Blue_Mica_Metallic%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/1/13/Toyota_Starlet_Carat_5-door_in_Dark_Blue_Mica_Metallic%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "23.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Toyota_Starlet_Carat_5-door_in_Dark_Blue_Mica_Metallic%2C_rear_left.jpg/1920px-Toyota_Starlet_Carat_5-door_in_Dark_Blue_Mica_Metallic%2C_rear_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Toyota_Starlet_Carat_5-door_in_Dark_Blue_Mica_Metallic%2C_rear_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "24.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Toyota_Starlet_1.jpg/1920px-Toyota_Starlet_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Toyota_Starlet_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "25.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/1984_Toyota_Starlet_P60_hatchback%2C_front_right%2C_05-05-2024.jpg/1920px-1984_Toyota_Starlet_P60_hatchback%2C_front_right%2C_05-05-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/9/93/1984_Toyota_Starlet_P60_hatchback%2C_front_right%2C_05-05-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "26.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/1984_Toyota_Starlet_P60_hatchback%2C_rear_left%2C_05-05-2024.jpg/1920px-1984_Toyota_Starlet_P60_hatchback%2C_rear_left%2C_05-05-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/4/47/1984_Toyota_Starlet_P60_hatchback%2C_rear_left%2C_05-05-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "27.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Toyota_E-KP61_New_Starlet_XL_5Door_%28No.429%29_%2824042812415%29.jpg/1920px-Toyota_E-KP61_New_Starlet_XL_5Door_%28No.429%29_%2824042812415%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/5/50/Toyota_E-KP61_New_Starlet_XL_5Door_%28No.429%29_%2824042812415%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "28.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Toyota_E-KP61_New_Starlet_XL_5Door_%28No.429%29_-_Nissan_CBA-Z34_Fairlady_Z_%28No.%29_-_Nissan_GC110XXX_Skyline_%28No.%29_%2824042812414%29.jpg/1920px-Toyota_E-KP61_New_Starlet_XL_5Door_%28No.429%29_-_Nissan_CBA-Z34_Fairlady_Z_%28No.%29_-_Nissan_GC110XXX_Skyline_%28No.%29_%2824042812414%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/3/34/Toyota_E-KP61_New_Starlet_XL_5Door_%28No.429%29_-_Nissan_CBA-Z34_Fairlady_Z_%28No.%29_-_Nissan_GC110XXX_Skyline_%28No.%29_%2824042812414%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "29.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Toyota_J-KP62V_Starlet_4Door_VAN_DX_%28No.024%29_%2824042109513%29.jpg/1920px-Toyota_J-KP62V_Starlet_4Door_VAN_DX_%28No.024%29_%2824042109513%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Toyota_J-KP62V_Starlet_4Door_VAN_DX_%28No.024%29_%2824042109513%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "30.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Toyota_J-KP62V_Starlet_4Door_VAN_DX_%28No.024%29_%2824042109514%29.jpg/1920px-Toyota_J-KP62V_Starlet_4Door_VAN_DX_%28No.024%29_%2824042109514%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Toyota_J-KP62V_Starlet_4Door_VAN_DX_%28No.024%29_%2824042109514%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "31.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Toyota_J-KP62V_Starlet_4Door_VAN_DX_%28No.024%29_%2824042109515%29.jpg/1920px-Toyota_J-KP62V_Starlet_4Door_VAN_DX_%28No.024%29_%2824042109515%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Toyota_J-KP62V_Starlet_4Door_VAN_DX_%28No.024%29_%2824042109515%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "32.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Toyota_J-KP62V_Starlet_4Door_VAN_Standard_%28No.071%29_%2824042109564%29.jpg/1920px-Toyota_J-KP62V_Starlet_4Door_VAN_Standard_%28No.071%29_%2824042109564%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Toyota_J-KP62V_Starlet_4Door_VAN_Standard_%28No.071%29_%2824042109564%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "33.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Toyota_J-KP62V_Starlet_4Door_VAN_Standard_%28No.071%29_%2824042109565%29.jpg/1920px-Toyota_J-KP62V_Starlet_4Door_VAN_Standard_%28No.071%29_%2824042109565%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Toyota_J-KP62V_Starlet_4Door_VAN_Standard_%28No.071%29_%2824042109565%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "34.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Toyota_E-EP71_Starlet_TURBO-S_3door_%2823110313071%29.jpg/1920px-Toyota_E-EP71_Starlet_TURBO-S_3door_%2823110313071%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/1/13/Toyota_E-EP71_Starlet_TURBO-S_3door_%2823110313071%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "35.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Toyota_E-KP61_New_Starlet_SE_5Door_%2823110313073%29.jpg/1920px-Toyota_E-KP61_New_Starlet_SE_5Door_%2823110313073%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Toyota_E-KP61_New_Starlet_SE_5Door_%2823110313073%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "36.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Toyota_E-EP85_Starlet_X_Limited_%2822070817550%29.jpg/1920px-Toyota_E-EP85_Starlet_X_Limited_%2822070817550%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Toyota_E-EP85_Starlet_X_Limited_%2822070817550%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "37.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Toyota_Starlet_%2852698378038%29.jpg/1920px-Toyota_Starlet_%2852698378038%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Toyota_Starlet_%2852698378038%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "38.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Toyota_Starlet_%2852698379088%29.jpg/1920px-Toyota_Starlet_%2852698379088%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/8/86/Toyota_Starlet_%2852698379088%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "39.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Toyota_Starlet_%2849866506117%29.jpg/1920px-Toyota_Starlet_%2849866506117%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Toyota_Starlet_%2849866506117%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "40.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Toyota_Starlet_1.3_%285_doors%21%29_%2849203614686%29.jpg/1920px-Toyota_Starlet_1.3_%285_doors%21%29_%2849203614686%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Toyota_Starlet_1.3_%285_doors%21%29_%2849203614686%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "41.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Toyota_Starlet_%2832083128287%29.jpg/1920px-Toyota_Starlet_%2832083128287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Toyota_Starlet_%2832083128287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "42.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Toyota_Starlet_%2831117867538%29.jpg/1920px-Toyota_Starlet_%2831117867538%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Toyota_Starlet_%2831117867538%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "43.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Toyota_Starlet_%2830581965128%29.jpg/1920px-Toyota_Starlet_%2830581965128%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Toyota_Starlet_%2830581965128%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "44.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Toyota_Starlet_%2842642278130%29.jpg/1920px-Toyota_Starlet_%2842642278130%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Toyota_Starlet_%2842642278130%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "45.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Toyota_Starlet_%2843252706505%29.jpg/1920px-Toyota_Starlet_%2843252706505%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/8/89/Toyota_Starlet_%2843252706505%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "46.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Toyota_Starlet_GT_%2828382499937%29.jpg/1920px-Toyota_Starlet_GT_%2828382499937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Toyota_Starlet_GT_%2828382499937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "47.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Toyota_Starlet_GT_%2829381289768%29.jpg/1920px-Toyota_Starlet_GT_%2829381289768%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Toyota_Starlet_GT_%2829381289768%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "48.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Toyota_Starlet_GT_%2828081473057%29.jpg/1920px-Toyota_Starlet_GT_%2828081473057%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Toyota_Starlet_GT_%2828081473057%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "49.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Toyota_Starlet_GT_%2841140226210%29.jpg/1920px-Toyota_Starlet_GT_%2841140226210%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/6/65/Toyota_Starlet_GT_%2841140226210%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "50.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Toyota_Starlet_GT_turbo_%2829089360638%29.jpg/1920px-Toyota_Starlet_GT_turbo_%2829089360638%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/5/56/Toyota_Starlet_GT_turbo_%2829089360638%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "51.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Toyota_Starlet_GT_turbo_%2842961929151%29.jpg/1920px-Toyota_Starlet_GT_turbo_%2842961929151%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/8/86/Toyota_Starlet_GT_turbo_%2842961929151%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "52.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Toyota_Starlet_GT_turbo_%2842961929481%29.jpg/1920px-Toyota_Starlet_GT_turbo_%2842961929481%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/5/52/Toyota_Starlet_GT_turbo_%2842961929481%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "53.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Toyota_Starlet_%22Dance%22_%2841916041142%29.jpg/1920px-Toyota_Starlet_%22Dance%22_%2841916041142%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Toyota_Starlet_%22Dance%22_%2841916041142%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "54.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Toyota_Starlet_%22Dance%22_%2841916041202%29.jpg/1920px-Toyota_Starlet_%22Dance%22_%2841916041202%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Toyota_Starlet_%22Dance%22_%2841916041202%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "55.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Toyota_Starlet_%2827054971037%29.jpg/1920px-Toyota_Starlet_%2827054971037%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/3/33/Toyota_Starlet_%2827054971037%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "56.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Toyota_Starlet_%2841880116982%29.jpg/1920px-Toyota_Starlet_%2841880116982%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Toyota_Starlet_%2841880116982%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "57.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Toyota_Starlet_%2840712653225%29.jpg/1920px-Toyota_Starlet_%2840712653225%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Toyota_Starlet_%2840712653225%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "58.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Toyota_Starlet_%2841564078822%29.jpg/1920px-Toyota_Starlet_%2841564078822%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Toyota_Starlet_%2841564078822%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "59.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Toyota_Starlet_Sprint_-_New_Zealand.jpg/1920px-Toyota_Starlet_Sprint_-_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/0/03/Toyota_Starlet_Sprint_-_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "60.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Toyota_Starlet_Carat_-_Flickr_-_dave_7.jpg/1920px-Toyota_Starlet_Carat_-_Flickr_-_dave_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/6/69/Toyota_Starlet_Carat_-_Flickr_-_dave_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  ],
+  "heroIndex": 0,
+  "facts": {},
+  "pros": "",
+  "cons": "",
+  "descriptionTitle": "トヨタが復活させた伝説のスポーツクルマ！GRスターレット",
+  "hashtags": [
+    "#トヨタスターレット",
+    "#Starlet",
+    "#ToyotaStarlet",
+    "#Toyota",
+    "#新型車",
+    "#車レビュー",
+    "#自動車"
+  ],
+  "credits": [
+    "Bene Riobó (Wikimedia Commons): CC BY-SA 4.0 ×2",
+    "Ethan Llamas (Wikimedia Commons): CC BY-SA 4.0 ×3",
+    "Charles (Wikimedia Commons): CC BY 2.0 ×2",
+    "Charles from Port Chester, New York (Wikimedia Commons): CC BY 2.0 ×3",
+    "Andrew Bone from Weymouth, England (Wikimedia Commons): CC BY 2.0",
+    "Vauxford (Wikimedia Commons): CC BY-SA 4.0",
+    "Charlie from United Kingdom (Wikimedia Commons): CC BY 2.0 ×2",
+    "Spanish Coches (Wikimedia Commons): CC BY 2.0",
+    "Riley from Christchurch, New Zealand (Wikimedia Commons): CC BY 2.0",
+    "Rutger van der Maar (Wikimedia Commons): CC BY 2.0",
+    "NZ Car Freak (Flickr): CC BY 2.0 ×3",
+    "charles cars (Flickr): CC BY 2.0",
+    "Brenden Ashton (Flickr): CC BY 2.0",
+    "orange_advan (Flickr): CC BY 2.0",
+    "Mr.choppers (Wikimedia Commons): CC BY-SA 4.0 ×2",
+    "Calreyn88 (Wikimedia Commons): CC BY-SA 4.0",
+    "先従隗始 (Wikimedia Commons): CC0 ×10",
+    "crash71100 (Wikimedia Commons): CC0 ×2",
+    "Dennis Elzinga (Wikimedia Commons): CC BY 2.0 ×2",
+    "Guillaume Vachey from Chalon sur Saone, France (Wikimedia Commons): CC0 ×11",
+    "FotoSleuth (Wikimedia Commons): CC BY 2.0 ×7",
+    "83kp61 (Wikimedia Commons): CC BY-SA 4.0",
+    "dave_7 from Canada (Wikimedia Commons): CC BY 2.0",
+    "全写真クレジット: https://github.com/zaars59208/car-animated/blob/main/jobs/yt-LnPAPc3b6pw/credits.txt"
+  ],
+  "decor": {
+    "frame": true,
+    "stickers": true,
+    "stickerEvery": 60,
+    "maxStickers": 1
+  },
+  "transitionSfx": 0.35,
+  "sourceVideo": "LnPAPc3b6pw",
+  "youtube": {
+    "queueId": "LnPAPc3b6pw",
+    "title": "トヨタが復活させた伝説のスポーツクルマ！GRスターレット",
+    "tags": [
+      "トヨタスターレット",
+      "Starlet",
+      "ToyotaStarlet",
+      "Toyota",
+      "新型車",
+      "車レビュー",
+      "自動車"
+    ],
+    "categoryId": "2",
+    "publishAt": "2026-11-26T09:00:00Z"
+  }
+}

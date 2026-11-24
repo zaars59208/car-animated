@@ -51,8 +51,14 @@
    "title": "ついに公開！2027年トヨタGRスターレット完全復活 — 28年の沈黙を破った伝説の真実",
    "url": "https://www.youtube.com/watch?v=LnPAPc3b6pw",
    "durationSec": 780,
-   "status": "queued",
-   "publishAt": "2026-11-26T09:00:00Z"
+   "status": "making",
+   "publishAt": "2026-11-26T09:00:00Z",
+   "refPublished": null,
+   "job": "yt-LnPAPc3b6pw",
+   "startedAt": "2026-11-24T10:14:31+00:00",
+   "car": "Toyota Starlet",
+   "myTitle": "トヨタが復活させた伝説のスポーツクルマ！GRスターレット",
+   "note": ""
   },
   {
    "id": "2aWoMij4dZY",
@@ -3165,5 +3171,5 @@
   "name": "Dm Auto reviews . 78K views ",
   "count": 349
  },
- "updated": "2026-11-24T10:02:18+00:00"
+ "updated": "2026-11-24T10:14:31+00:00"
 }
