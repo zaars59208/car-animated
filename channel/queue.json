@@ -68,14 +68,16 @@
    "title": "トヨタ新型スパーキーハイブリッド2026、ついに登場！キャプテンシート搭載でフリードを超えた！",
    "url": "https://www.youtube.com/watch?v=2aWoMij4dZY",
    "durationSec": 741,
-   "status": "making",
+   "status": "made",
    "publishAt": "2026-11-27T09:00:00Z",
    "refPublished": null,
    "job": "yt-2aWoMij4dZY",
    "startedAt": "2026-11-25T22:03:05+00:00",
    "car": "Toyota Sparky",
    "myTitle": "2026 Toyota Spark Hybrid 初披露！",
-   "note": ""
+   "note": "",
+   "release": "https://github.com/zaars59208/car-animated/releases/tag/video-yt-2aWoMij4dZY",
+   "madeAt": "2026-11-25T22:32:26.902696+00:00"
   },
   {
    "id": "S79VJKt-XDk",
