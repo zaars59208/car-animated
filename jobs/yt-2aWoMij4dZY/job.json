@@ -1,0 +1,699 @@
+{
+  "version": 1,
+  "title": "トヨタ スパーキー",
+  "tagline": "",
+  "vehicleType": "electric",
+  "mode": "long",
+  "stage": "render",
+  "pace": "fast",
+  "language": "ja",
+  "burnCaptions": true,
+  "alsoShort": false,
+  "thumbnailText": "トヨタ スパーキー",
+  "thumbnailBadge": "徹底解説",
+  "price": "",
+  "priceLabel": "",
+  "dealer": "",
+  "contact": "",
+  "cta": "チャンネル登録お願いします",
+  "specs": [],
+  "voice": {
+    "enabled": true,
+    "voice": "am_michael",
+    "edgeVoice": "ja-JP-KeitaNeural",
+    "speed": 1.08
+  },
+  "images": [
+    {
+      "file": "01.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "02.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "03.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "04.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "05.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "06.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "07.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "08.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "09.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "10.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "11.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "12.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "13.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "14.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "15.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "16.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "17.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "18.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "19.jpg",
+      "caption": "",
+      "category": "engine"
+    },
+    {
+      "file": "20.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "21.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "22.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "23.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "24.jpg",
+      "caption": "",
+      "category": "engine"
+    },
+    {
+      "file": "25.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "26.jpg",
+      "caption": "",
+      "category": "engine"
+    },
+    {
+      "file": "27.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "28.jpg",
+      "caption": "",
+      "category": "engine"
+    },
+    {
+      "file": "29.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "30.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "31.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "32.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "33.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "34.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "35.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "36.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "37.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "38.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "39.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "40.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "41.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "42.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "43.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "44.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "45.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "46.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "47.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "48.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "49.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "50.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "51.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "52.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "53.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "54.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "55.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "56.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "57.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "58.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "59.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "60.jpg",
+      "caption": "",
+      "category": "auto"
+    }
+  ],
+  "remoteImages": [
+    {
+      "file": "01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Toyota_Sparky_X_J_Package_%28UA-S221E%29_front.jpg/1920px-Toyota_Sparky_X_J_Package_%28UA-S221E%29_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/9/93/Toyota_Sparky_X_J_Package_%28UA-S221E%29_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Nagoya_20210330-07.jpg/1920px-Nagoya_20210330-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Nagoya_20210330-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Daihatsu_Hijet_fire_truck_%28eighth_generation%29%2C_dashboard.jpg/1920px-Daihatsu_Hijet_fire_truck_%28eighth_generation%29%2C_dashboard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/7/74/Daihatsu_Hijet_fire_truck_%28eighth_generation%29%2C_dashboard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Daihatsu_Hijet_fire_truck_%28eighth_generation%29%2C_interior.jpg/1920px-Daihatsu_Hijet_fire_truck_%28eighth_generation%29%2C_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/6/67/Daihatsu_Hijet_fire_truck_%28eighth_generation%29%2C_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "05.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Daihatsu_Hijet_S200V_FL_Cargo_Blue.jpg/1920px-Daihatsu_Hijet_S200V_FL_Cargo_Blue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/8/89/Daihatsu_Hijet_S200V_FL_Cargo_Blue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/2022_Daihatsu_Hijet_Cargo_Deluxe_LED_pack_in_Bright_Silver_Metallic%2C_front_right.jpg/1920px-2022_Daihatsu_Hijet_Cargo_Deluxe_LED_pack_in_Bright_Silver_Metallic%2C_front_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/a/a4/2022_Daihatsu_Hijet_Cargo_Deluxe_LED_pack_in_Bright_Silver_Metallic%2C_front_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Daihatsu_Hijet_Cargo_Cruise_%28S321V%29_in_Bright_Silver_Metallic%2C_front_left.jpg/1920px-Daihatsu_Hijet_Cargo_Cruise_%28S321V%29_in_Bright_Silver_Metallic%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Daihatsu_Hijet_Cargo_Cruise_%28S321V%29_in_Bright_Silver_Metallic%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "08.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Daihatsu_Hijet_Cargo_Deluxe_SA_III_2WD_in_Silver%2C_front_left.jpg/1920px-Daihatsu_Hijet_Cargo_Deluxe_SA_III_2WD_in_Silver%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Daihatsu_Hijet_Cargo_Deluxe_SA_III_2WD_in_Silver%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "09.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Daihatsu_Hi-Jet_and_3-wheelers.jpg/1920px-Daihatsu_Hi-Jet_and_3-wheelers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Daihatsu_Hi-Jet_and_3-wheelers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "10.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/NGO_Higashiyama_Zoo_20221224-06.jpg/1920px-NGO_Higashiyama_Zoo_20221224-06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/e/e0/NGO_Higashiyama_Zoo_20221224-06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "11.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Daihatsu_Hijet_Cargo2022.jpg/1920px-Daihatsu_Hijet_Cargo2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Daihatsu_Hijet_Cargo2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "12.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Naka_20211008-04.jpg/1920px-Naka_20211008-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/0/06/Naka_20211008-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "13.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Passengers_boarding_bus_shuttle_to_their_destination.jpg/1920px-Passengers_boarding_bus_shuttle_to_their_destination.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Passengers_boarding_bus_shuttle_to_their_destination.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "14.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/PR_Vehicle%2C_Naka_city_fire_department.jpg/1920px-PR_Vehicle%2C_Naka_city_fire_department.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/0/0a/PR_Vehicle%2C_Naka_city_fire_department.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "15.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Supercargo03.jpg/1920px-Supercargo03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Supercargo03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "16.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Supercargo04.jpg/1920px-Supercargo04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/6/61/Supercargo04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "17.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Hijet_Cargo_front.JPG/1920px-Hijet_Cargo_front.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/4/42/Hijet_Cargo_front.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "18.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Hijet_Cargo_rear.JPG/1920px-Hijet_Cargo_rear.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Hijet_Cargo_rear.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "19.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%A6%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%EF%BC%A0%E8%B5%A4%E4%BF%A1%E5%8F%B7_%282059191355%29.jpg/1920px-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%A6%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%EF%BC%A0%E8%B5%A4%E4%BF%A1%E5%8F%B7_%282059191355%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/e/e4/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%A6%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%EF%BC%A0%E8%B5%A4%E4%BF%A1%E5%8F%B7_%282059191355%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "20.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Osaka_Auto_Messe_2022_%28109%29_-_Daihatsu_HI-JET_LITE-VAN_%28S35V%29.jpg/1920px-Osaka_Auto_Messe_2022_%28109%29_-_Daihatsu_HI-JET_LITE-VAN_%28S35V%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Osaka_Auto_Messe_2022_%28109%29_-_Daihatsu_HI-JET_LITE-VAN_%28S35V%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "21.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Osaka_Auto_Messe_2022_%28110%29_-_Daihatsu_HI-JET_LITE-VAN_%28S35V%29.jpg/1920px-Osaka_Auto_Messe_2022_%28110%29_-_Daihatsu_HI-JET_LITE-VAN_%28S35V%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Osaka_Auto_Messe_2022_%28110%29_-_Daihatsu_HI-JET_LITE-VAN_%28S35V%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "22.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Osaka_Auto_Messe_2022_%28111%29_-_Daihatsu_HI-JET_LITE-VAN_%28S35V%29.jpg/1920px-Osaka_Auto_Messe_2022_%28111%29_-_Daihatsu_HI-JET_LITE-VAN_%28S35V%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Osaka_Auto_Messe_2022_%28111%29_-_Daihatsu_HI-JET_LITE-VAN_%28S35V%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "23.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Showa_era_street_scene.jpg/1920px-Showa_era_street_scene.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Showa_era_street_scene.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "24.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Daihatsu_Hijet_pickup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Daihatsu_Hijet_pickup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "25.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Daihatsu_Hijet_1011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Daihatsu_Hijet_1011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "26.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/1985-1986_Daihatsu_Hijet_%28S76%29_600_4WD_cab_chassis_%2822226394241%29.jpg/1920px-1985-1986_Daihatsu_Hijet_%28S76%29_600_4WD_cab_chassis_%2822226394241%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/0/0b/1985-1986_Daihatsu_Hijet_%28S76%29_600_4WD_cab_chassis_%2822226394241%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "27.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/1977-78_Hijet_55_Wide_truck.jpg/1920px-1977-78_Hijet_55_Wide_truck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/a/ad/1977-78_Hijet_55_Wide_truck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "28.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/2013_Tokyo_Fire_Department_Dezome_Ceremony_11.JPG/1920px-2013_Tokyo_Fire_Department_Dezome_Ceremony_11.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/b/b5/2013_Tokyo_Fire_Department_Dezome_Ceremony_11.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "29.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Toyota_Sparky_1.3X_S_Package_%28S221E%29_rear.JPG/1920px-Toyota_Sparky_1.3X_S_Package_%28S221E%29_rear.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Toyota_Sparky_1.3X_S_Package_%28S221E%29_rear.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "30.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Toyota_SPARKY_1.3X_J_Package_%28S221E%29_rear.JPG/1920px-Toyota_SPARKY_1.3X_J_Package_%28S221E%29_rear.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Toyota_SPARKY_1.3X_J_Package_%28S221E%29_rear.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "31.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Toyota_Sparky_X_J_Package_%28UA-S221E%29_rear.jpg/1920px-Toyota_Sparky_X_J_Package_%28UA-S221E%29_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Toyota_Sparky_X_J_Package_%28UA-S221E%29_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "32.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Toyota_Sparky_1.3X_S_Package_%28S221E%29_front.JPG/1920px-Toyota_Sparky_1.3X_S_Package_%28S221E%29_front.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Toyota_Sparky_1.3X_S_Package_%28S221E%29_front.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "33.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Toyota_SPARKY_1.3X_J_Package_%28S221E%29_front.JPG/1920px-Toyota_SPARKY_1.3X_J_Package_%28S221E%29_front.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Toyota_SPARKY_1.3X_J_Package_%28S221E%29_front.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "34.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Toyota_Sparky_006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Toyota_Sparky_006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "35.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Toyota_Sparky_003.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Toyota_Sparky_003.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "36.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Toyota_Sparky_004.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Toyota_Sparky_004.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "37.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Toyota_Sparky_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Toyota_Sparky_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "38.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Toyota_Sparky_002.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Toyota_Sparky_002.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "39.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/1999-2006_Toyota_Sparky_%2828649842021%29.jpg/1920px-1999-2006_Toyota_Sparky_%2828649842021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/e/ef/1999-2006_Toyota_Sparky_%2828649842021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "40.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/2002_Toyota_Sparky_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/8/83/2002_Toyota_Sparky_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "41.jpg",
+      "url": "https://live.staticflickr.com/8783/28678785045_d9202196a4_b.jpg",
+      "fallback": "https://live.staticflickr.com/8783/28678785045_d9202196a4_b.jpg"
+    },
+    {
+      "file": "42.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Mobile_sales_truck_by_Lawson_in_Japan.jpg/1920px-Mobile_sales_truck_by_Lawson_in_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Mobile_sales_truck_by_Lawson_in_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "43.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Daihatsu_S40P_Hijet_Super_Deluxe_%2822100915092%29.jpg/1920px-Daihatsu_S40P_Hijet_Super_Deluxe_%2822100915092%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/3/34/Daihatsu_S40P_Hijet_Super_Deluxe_%2822100915092%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "44.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Beautiful_ice_mountains_of_japan_%28Unsplash%29.jpg/1920px-Beautiful_ice_mountains_of_japan_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Beautiful_ice_mountains_of_japan_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "45.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/NGO_Meito_c20250503_1448a.jpg/1920px-NGO_Meito_c20250503_1448a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/1/10/NGO_Meito_c20250503_1448a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "46.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Aichi_Toyohashi_c20250426_1408b.jpg/1920px-Aichi_Toyohashi_c20250426_1408b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/d/da/Aichi_Toyohashi_c20250426_1408b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "47.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/%28%29Aichi_Toyohashi_Park_c20250322_0941a.jpg/1920px-%28%29Aichi_Toyohashi_Park_c20250322_0941a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/9/9f/%28%29Aichi_Toyohashi_Park_c20250322_0941a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "48.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Tianjin_Daihatsu_TJ110_at_Beijing_Auto_Museum_5F_%2820261028135206%29.jpg/1920px-Tianjin_Daihatsu_TJ110_at_Beijing_Auto_Museum_5F_%2820261028135206%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Tianjin_Daihatsu_TJ110_at_Beijing_Auto_Museum_5F_%2820261028135206%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "49.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Tianjin_Daihatsu_TJ110_at_Beijing_Auto_Museum_5F_%2820261028135345%29.jpg/1920px-Tianjin_Daihatsu_TJ110_at_Beijing_Auto_Museum_5F_%2820261028135345%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Tianjin_Daihatsu_TJ110_at_Beijing_Auto_Museum_5F_%2820261028135345%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "50.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Daihatsu_Hijet_fire_truck_%28eighth_generation%29%2C_front_left.jpg/1920px-Daihatsu_Hijet_fire_truck_%28eighth_generation%29%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/8/83/Daihatsu_Hijet_fire_truck_%28eighth_generation%29%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "51.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2026_Tokyo_Auto_Salon_Daihatsu_Hijet_S500P_Dump_truck_Dai-hatsumei_%28forward%29.jpg/1920px-2026_Tokyo_Auto_Salon_Daihatsu_Hijet_S500P_Dump_truck_Dai-hatsumei_%28forward%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/a/ad/2026_Tokyo_Auto_Salon_Daihatsu_Hijet_S500P_Dump_truck_Dai-hatsumei_%28forward%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "52.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Rear_view_of_a_Daihatsu_Hijet_VII_in_Ostuni%2C_Italy.jpg/1920px-Rear_view_of_a_Daihatsu_Hijet_VII_in_Ostuni%2C_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/8/86/Rear_view_of_a_Daihatsu_Hijet_VII_in_Ostuni%2C_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "53.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/NGO_Nishi_c20250629_1244a.jpg/1920px-NGO_Nishi_c20250629_1244a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/0/08/NGO_Nishi_c20250629_1244a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "54.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/NGO_Nishi_c20250629_1244b.jpg/1920px-NGO_Nishi_c20250629_1244b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/1/13/NGO_Nishi_c20250629_1244b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "55.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Daihatsu_Hijet_Truck_Standard_%28S500P%29_in_Bright_Silver_Metallic%2C_front_left.jpg/1920px-Daihatsu_Hijet_Truck_Standard_%28S500P%29_in_Bright_Silver_Metallic%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Daihatsu_Hijet_Truck_Standard_%28S500P%29_in_Bright_Silver_Metallic%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "56.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Hijet_Mk7_in_2024.jpg/1920px-Hijet_Mk7_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/8/88/Hijet_Mk7_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "57.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Daihatsu_S38P_Hijet_%28No.097%29_%2824042109421%29.jpg/1920px-Daihatsu_S38P_Hijet_%28No.097%29_%2824042109421%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/6/60/Daihatsu_S38P_Hijet_%28No.097%29_%2824042109421%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "58.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Daihatsu_S38P_Hijet_%28No.097%29_%2824042109423%29.jpg/1920px-Daihatsu_S38P_Hijet_%28No.097%29_%2824042109423%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/9/97/Daihatsu_S38P_Hijet_%28No.097%29_%2824042109423%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "59.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Choshi_Falls_-_Akita_-_2024_march_27_various_15_57_16_607000.jpeg/1920px-Choshi_Falls_-_Akita_-_2024_march_27_various_15_57_16_607000.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/4/41/Choshi_Falls_-_Akita_-_2024_march_27_various_15_57_16_607000.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "60.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/EMS_2023%2C_Essen_%28P1160551-RR%29.jpg/1920px-EMS_2023%2C_Essen_%28P1160551-RR%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/7/71/EMS_2023%2C_Essen_%28P1160551-RR%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  ],
+  "heroIndex": 0,
+  "facts": {},
+  "pros": "",
+  "cons": "",
+  "descriptionTitle": "2026 Toyota Spark Hybrid 初披露！",
+  "hashtags": [
+    "#トヨタスパーキー",
+    "#Sparky",
+    "#ToyotaSparky",
+    "#Toyota",
+    "#新型車",
+    "#車レビュー",
+    "#自動車"
+  ],
+  "credits": [
+    "Tokumeigakarinoaoshima (Wikimedia Commons): CC BY-SA 4.0 ×5, CC0 ×4",
+    "円周率３パーセント (Wikimedia Commons): CC BY-SA 4.0 ×8",
+    "Mr.choppers (Wikimedia Commons): CC BY-SA 4.0 ×4, CC BY-SA 3.0 ×4",
+    "Ethan Llamas (Wikimedia Commons): CC BY-SA 4.0",
+    "MikaPr65 (Wikimedia Commons): CC BY-SA 4.0",
+    "Mr.ちゅらさん (Wikimedia Commons): CC BY-SA 4.0",
+    "Dammy Kaka (Wikimedia Commons): CC BY-SA 4.0",
+    "Miyuki Meinaka (Wikimedia Commons): CC BY-SA 4.0",
+    "Proshikok (Wikimedia Commons): CC BY-SA 4.0 ×2",
+    "Tommi Nummelin (Wikimedia Commons): CC BY-SA 3.0 ×2",
+    "ketou-daisuki from Kyoto, japansko (Wikimedia Commons): CC BY-SA 2.0",
+    "Yasuhiko Ito from Sendai, Japan (Wikimedia Commons): CC BY 2.0",
+    "No machine-readable author provided. Dbenbenn assumed (based (Wikimedia Commons): CC BY-SA 3.0",
+    "天然ガス (Wikimedia Commons): CC BY-SA 4.0",
+    "Jeremy from Sydney, Australia (Wikimedia Commons): CC BY 2.0",
+    "Abasaa (Wikimedia Commons): Public domain",
+    "Tennen-Gas (Wikimedia Commons): CC BY-SA 4.0, CC BY-SA 3.0 ×4",
+    "Niels de Wit from Ede, The Netherlands (Wikimedia Commons): CC BY 2.0",
+    "Mytho88 (Wikimedia Commons): CC BY-SA 3.0",
+    "NielsdeWit (Flickr): CC BY 2.0",
+    "Yoh-Plus (Wikimedia Commons): CC BY 4.0",
+    "先従隗始 (Wikimedia Commons): CC0 ×3",
+    "Matthew Kane matthewkane (Wikimedia Commons): CC0",
+    "N509FZ (Wikimedia Commons): CC BY-SA 4.0 ×2",
+    "Comyu (Wikimedia Commons): CC0",
+    "2538O (Wikimedia Commons): CC0",
+    "Hd207 (Wikimedia Commons): CC0",
+    "Nesnad (Wikimedia Commons): CC BY 4.0",
+    "MB-one (Wikimedia Commons): CC BY-SA 4.0",
+    "全写真クレジット: https://github.com/zaars59208/car-animated/blob/main/jobs/yt-2aWoMij4dZY/credits.txt"
+  ],
+  "decor": {
+    "frame": true,
+    "stickers": true,
+    "stickerEvery": 60,
+    "maxStickers": 1
+  },
+  "transitionSfx": 0.35,
+  "sourceVideo": "2aWoMij4dZY",
+  "youtube": {
+    "queueId": "2aWoMij4dZY",
+    "title": "2026 Toyota Spark Hybrid 初披露！",
+    "tags": [
+      "トヨタスパーキー",
+      "Sparky",
+      "ToyotaSparky",
+      "Toyota",
+      "新型車",
+      "車レビュー",
+      "自動車"
+    ],
+    "categoryId": "2",
+    "publishAt": "2026-11-27T09:00:00Z"
+  }
+}
