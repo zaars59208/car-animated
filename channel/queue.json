@@ -85,14 +85,16 @@
    "title": "ついに公開！2026年レクサスGX550バージョンL — 誰も知らなかった真実をすべて暴露します！",
    "url": "https://www.youtube.com/watch?v=S79VJKt-XDk",
    "durationSec": 644,
-   "status": "making",
+   "status": "made",
    "publishAt": "2026-11-28T09:00:00Z",
    "refPublished": null,
    "job": "yt-S79VJKt-XDk",
    "startedAt": "2026-11-26T21:55:29+00:00",
    "car": "Lexus GX",
    "myTitle": "レクサスGX550 2026年版解禁！",
-   "note": ""
+   "note": "",
+   "release": "https://github.com/zaars59208/car-animated/releases/tag/video-yt-S79VJKt-XDk",
+   "madeAt": "2026-11-26T22:25:33.640310+00:00"
   },
   {
    "id": "TOc2XVEOPDE",
