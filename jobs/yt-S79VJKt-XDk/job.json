@@ -1,0 +1,683 @@
+{
+  "version": 1,
+  "title": "レクサス GX",
+  "tagline": "",
+  "vehicleType": "suv",
+  "mode": "long",
+  "stage": "render",
+  "pace": "fast",
+  "language": "ja",
+  "burnCaptions": true,
+  "alsoShort": false,
+  "thumbnailText": "レクサス GX",
+  "thumbnailBadge": "徹底解説",
+  "price": "",
+  "priceLabel": "",
+  "dealer": "",
+  "contact": "",
+  "cta": "チャンネル登録お願いします",
+  "specs": [],
+  "voice": {
+    "enabled": true,
+    "voice": "am_michael",
+    "edgeVoice": "ja-JP-KeitaNeural",
+    "speed": 1.08
+  },
+  "images": [
+    {
+      "file": "01.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "02.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "03.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "04.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "05.jpg",
+      "caption": "",
+      "category": "engine"
+    },
+    {
+      "file": "06.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "07.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "08.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "09.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "10.jpg",
+      "caption": "",
+      "category": "engine"
+    },
+    {
+      "file": "11.jpg",
+      "caption": "",
+      "category": "engine"
+    },
+    {
+      "file": "12.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "13.jpg",
+      "caption": "",
+      "category": "interior"
+    },
+    {
+      "file": "14.jpg",
+      "caption": "",
+      "category": "detail"
+    },
+    {
+      "file": "15.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "16.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "17.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "18.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "19.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "20.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "21.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "22.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "23.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "24.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "25.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "26.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "27.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "28.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "29.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "30.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "31.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "32.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "33.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "34.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "35.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "36.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "37.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "38.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "39.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "40.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "41.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "42.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "43.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "44.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "45.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "46.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "47.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "48.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "49.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "50.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "51.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "52.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "53.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "54.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "55.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "56.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "57.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "58.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "59.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "60.jpg",
+      "caption": "",
+      "category": "auto"
+    }
+  ],
+  "remoteImages": [
+    {
+      "file": "01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Lexus_GX_550_VJA252_Premier_Graphite_Black_Glass_Flake_01.jpg/1920px-Lexus_GX_550_VJA252_Premier_Graphite_Black_Glass_Flake_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/1/18/Lexus_GX_550_VJA252_Premier_Graphite_Black_Glass_Flake_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/LEXUS_GX_550h_%28J250%29_CHINA_SPECIFICATION_INTERIOR.jpg/1920px-LEXUS_GX_550h_%28J250%29_CHINA_SPECIFICATION_INTERIOR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/5/52/LEXUS_GX_550h_%28J250%29_CHINA_SPECIFICATION_INTERIOR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/LEXUS_GX_550h_%28J250%29_CHINA_SPECIFICATION_INTERIOR_%282%29.jpg/1920px-LEXUS_GX_550h_%28J250%29_CHINA_SPECIFICATION_INTERIOR_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/5/54/LEXUS_GX_550h_%28J250%29_CHINA_SPECIFICATION_INTERIOR_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/LEXUS_GX_550h_%28J250%29_CHINA_SPECIFICATION_INTERIOR_%283%29.jpg/1920px-LEXUS_GX_550h_%28J250%29_CHINA_SPECIFICATION_INTERIOR_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/f/f7/LEXUS_GX_550h_%28J250%29_CHINA_SPECIFICATION_INTERIOR_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "05.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Lexus_GX_550_Luxury%2B_%282024%29_%2855259657880%29.jpg/1920px-Lexus_GX_550_Luxury%2B_%282024%29_%2855259657880%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Lexus_GX_550_Luxury%2B_%282024%29_%2855259657880%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Driver%27s_Side_Door_Inside_a_New_Lexus_GX550_in_Cape_Town.jpg/1920px-Driver%27s_Side_Door_Inside_a_New_Lexus_GX550_in_Cape_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/3/36/Driver%27s_Side_Door_Inside_a_New_Lexus_GX550_in_Cape_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Interior_of_a_New_Lexus_GX550_in_Cape_Town.jpg/1920px-Interior_of_a_New_Lexus_GX550_in_Cape_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Interior_of_a_New_Lexus_GX550_in_Cape_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "08.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Interior_of_a_New_Right_Hand_Drive_Lexus_GX550_in_Cape_Town.jpg/1920px-Interior_of_a_New_Right_Hand_Drive_Lexus_GX550_in_Cape_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/5/55/Interior_of_a_New_Right_Hand_Drive_Lexus_GX550_in_Cape_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "09.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Lexus_GX_550_VJA252_Overtrail_interior.jpg/1920px-Lexus_GX_550_VJA252_Overtrail_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/5/55/Lexus_GX_550_VJA252_Overtrail_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "10.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Lexus_GX_550_%282024%29_%2853626371411%29.jpg/1920px-Lexus_GX_550_%282024%29_%2853626371411%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Lexus_GX_550_%282024%29_%2853626371411%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "11.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Lexus_GX_550_%282024%29_%2853626810785%29.jpg/1920px-Lexus_GX_550_%282024%29_%2853626810785%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Lexus_GX_550_%282024%29_%2853626810785%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "12.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/2024_Lexus_GX_550_Luxury%2B_%28United_States%29_interior.png/1920px-2024_Lexus_GX_550_Luxury%2B_%28United_States%29_interior.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/c/ce/2024_Lexus_GX_550_Luxury%2B_%28United_States%29_interior.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "13.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/2024_Lexus_GX_550_Overtrail_%28interior%29.jpg",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/2/25/2024_Lexus_GX_550_Overtrail_%28interior%29.jpg"
+    },
+    {
+      "file": "14.jpg",
+      "url": "https://live.staticflickr.com/5306/5867311871_b795a01953_b.jpg",
+      "fallback": "https://live.staticflickr.com/5306/5867311871_b795a01953_b.jpg"
+    },
+    {
+      "file": "15.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Lexus_GX_550_VJA252_Premier_Graphite_Black_Glass_Flake_02.jpg/1920px-Lexus_GX_550_VJA252_Premier_Graphite_Black_Glass_Flake_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Lexus_GX_550_VJA252_Premier_Graphite_Black_Glass_Flake_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "16.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/LEXUS_GX_%28J150%29_China_%2822%29.jpg/1920px-LEXUS_GX_%28J150%29_China_%2822%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/7/78/LEXUS_GX_%28J150%29_China_%2822%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "17.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/LEXUS_GX_%28J150%29_China_%2823%29.jpg/1920px-LEXUS_GX_%28J150%29_China_%2823%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/6/65/LEXUS_GX_%28J150%29_China_%2823%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "18.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/LEXUS_GX_550h_%28J250%29_China_%283%29.jpg/1920px-LEXUS_GX_550h_%28J250%29_China_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/8/82/LEXUS_GX_550h_%28J250%29_China_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "19.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/LEXUS_GX_550h_%28J250%29_China_%284%29.jpg/1920px-LEXUS_GX_550h_%28J250%29_China_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/2/21/LEXUS_GX_550h_%28J250%29_China_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "20.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/2025_Lexus_GX_550_Premium%2B_in_Incognito%2C_front_left.jpg/1920px-2025_Lexus_GX_550_Premium%2B_in_Incognito%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/f/f2/2025_Lexus_GX_550_Premium%2B_in_Incognito%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "21.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Moscow%2C_Lexus_GX460_silver%2C_May_2026_01.jpg/1920px-Moscow%2C_Lexus_GX460_silver%2C_May_2026_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/2/20/Moscow%2C_Lexus_GX460_silver%2C_May_2026_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "22.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/LEXUS_GX_%28J150%29_China_%2820%29.jpg/1920px-LEXUS_GX_%28J150%29_China_%2820%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/0/02/LEXUS_GX_%28J150%29_China_%2820%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "23.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/LEXUS_GX_%28J150%29_China_%2821%29.jpg/1920px-LEXUS_GX_%28J150%29_China_%2821%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/f/f7/LEXUS_GX_%28J150%29_China_%2821%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "24.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Lexus_GX_550_VJA252_Premier_Sonic_Titanium_03.jpg/1920px-Lexus_GX_550_VJA252_Premier_Sonic_Titanium_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Lexus_GX_550_VJA252_Premier_Sonic_Titanium_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "25.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Lexus_GX_550_VJA252_Premier_Sonic_Titanium_04.jpg/1920px-Lexus_GX_550_VJA252_Premier_Sonic_Titanium_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lexus_GX_550_VJA252_Premier_Sonic_Titanium_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "26.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Lexus_GX_550_VJA252_Overtrail_Tactical_Beige_%2B_Black_03.jpg/1920px-Lexus_GX_550_VJA252_Overtrail_Tactical_Beige_%2B_Black_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/1/14/Lexus_GX_550_VJA252_Overtrail_Tactical_Beige_%2B_Black_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "27.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Lexus_GX_550_VJA252_Overtrail_Tactical_Beige_%2B_Black_04.jpg/1920px-Lexus_GX_550_VJA252_Overtrail_Tactical_Beige_%2B_Black_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Lexus_GX_550_VJA252_Overtrail_Tactical_Beige_%2B_Black_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "28.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Lexus_GX_460_URJ150_FL1_Black_Onyx.jpg/1920px-Lexus_GX_460_URJ150_FL1_Black_Onyx.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Lexus_GX_460_URJ150_FL1_Black_Onyx.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "29.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Lexus_GX_550_VJA252_Overtrail_Tactical_Beige_%2B_Black_01.jpg/1920px-Lexus_GX_550_VJA252_Overtrail_Tactical_Beige_%2B_Black_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/3/32/Lexus_GX_550_VJA252_Overtrail_Tactical_Beige_%2B_Black_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "30.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Lexus_GX_550_VJA252_Overtrail_Tactical_Beige_%2B_Black_02.jpg/1920px-Lexus_GX_550_VJA252_Overtrail_Tactical_Beige_%2B_Black_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Lexus_GX_550_VJA252_Overtrail_Tactical_Beige_%2B_Black_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "31.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Moscow%2C_Mitsubishi_RVR%2C_Lexus_GX_Aug_2025_01.jpg/1920px-Moscow%2C_Mitsubishi_RVR%2C_Lexus_GX_Aug_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Moscow%2C_Mitsubishi_RVR%2C_Lexus_GX_Aug_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "32.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/24_Lexus_GX_550_Luxury.jpg/1920px-24_Lexus_GX_550_Luxury.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/1/1d/24_Lexus_GX_550_Luxury.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "33.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Lexus_GX_550_VJA252_Premier_Sonic_Titanium_01.jpg/1920px-Lexus_GX_550_VJA252_Premier_Sonic_Titanium_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/0/00/Lexus_GX_550_VJA252_Premier_Sonic_Titanium_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "34.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Lexus_GX_550_VJA252_Premier_Sonic_Titanium_02.jpg/1920px-Lexus_GX_550_VJA252_Premier_Sonic_Titanium_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Lexus_GX_550_VJA252_Premier_Sonic_Titanium_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "35.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Lexus_GX_460_URJ150_FL1_Sonic_Quartz_01.jpg/1920px-Lexus_GX_460_URJ150_FL1_Sonic_Quartz_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Lexus_GX_460_URJ150_FL1_Sonic_Quartz_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "36.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Lexus_GX_460_URJ150_FL1_Sonic_Quartz_02.jpg/1920px-Lexus_GX_460_URJ150_FL1_Sonic_Quartz_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Lexus_GX_460_URJ150_FL1_Sonic_Quartz_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "37.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/LEXUS_GX_%28J150%29_China_%2818%29.jpg/1920px-LEXUS_GX_%28J150%29_China_%2818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/4/4a/LEXUS_GX_%28J150%29_China_%2818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "38.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/LEXUS_GX_%28J150%29_China_%2819%29.jpg/1920px-LEXUS_GX_%28J150%29_China_%2819%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/a/a4/LEXUS_GX_%28J150%29_China_%2819%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "39.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/LEXUS_GX_%28J150%29_China_%2816%29.jpg/1920px-LEXUS_GX_%28J150%29_China_%2816%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/3/3d/LEXUS_GX_%28J150%29_China_%2816%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "40.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/LEXUS_GX_%28J150%29_China_%2817%29.jpg/1920px-LEXUS_GX_%28J150%29_China_%2817%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/c/cf/LEXUS_GX_%28J150%29_China_%2817%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "41.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/LEXUS_GX_%28J150%29_China_%2814%29.jpg/1920px-LEXUS_GX_%28J150%29_China_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/2/2f/LEXUS_GX_%28J150%29_China_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "42.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/LEXUS_GX_%28J150%29_China_%2815%29.jpg/1920px-LEXUS_GX_%28J150%29_China_%2815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/3/39/LEXUS_GX_%28J150%29_China_%2815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "43.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/LEXUS_GX_%28J150%29_China_%2813%29.jpg/1920px-LEXUS_GX_%28J150%29_China_%2813%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/7/7c/LEXUS_GX_%28J150%29_China_%2813%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "44.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Lexus_GX550_Overtrail_Plus.jpg/1920px-Lexus_GX550_Overtrail_Plus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Lexus_GX550_Overtrail_Plus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "45.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Lexus_GX_460_URJ150_Sonic_Quartz_-_front.jpg/1920px-Lexus_GX_460_URJ150_Sonic_Quartz_-_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/2/26/Lexus_GX_460_URJ150_Sonic_Quartz_-_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "46.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Lexus_GX_460_URJ150_Sonic_Quartz_-_rear.jpg/1920px-Lexus_GX_460_URJ150_Sonic_Quartz_-_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Lexus_GX_460_URJ150_Sonic_Quartz_-_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "47.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/LEXUS_GX_550h_%28J250%29_China.jpg/1920px-LEXUS_GX_550h_%28J250%29_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/2/25/LEXUS_GX_550h_%28J250%29_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "48.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/LEXUS_GX_550h_%28J250%29_China_%282%29.jpg/1920px-LEXUS_GX_550h_%28J250%29_China_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/2/2f/LEXUS_GX_550h_%28J250%29_China_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "49.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/LEXUS_GX_%28J150%29_China_%2812%29.jpg/1920px-LEXUS_GX_%28J150%29_China_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/3/34/LEXUS_GX_%28J150%29_China_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "50.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/16_Lexus_GX_460_Base.jpg/1920px-16_Lexus_GX_460_Base.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/b/bb/16_Lexus_GX_460_Base.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "51.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/2024_Lexus_GX_550_Overtrail_%28United_States%29_front_view_01.jpg/1920px-2024_Lexus_GX_550_Overtrail_%28United_States%29_front_view_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/e/ec/2024_Lexus_GX_550_Overtrail_%28United_States%29_front_view_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "52.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/2024_Lexus_GX_550_Overtrail_%28United_States%29_front_view_02.jpg/1920px-2024_Lexus_GX_550_Overtrail_%28United_States%29_front_view_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/4/4a/2024_Lexus_GX_550_Overtrail_%28United_States%29_front_view_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "53.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2024_Lexus_GX_550_Overtrail_%28United_States%29_rear_view.jpg/1920px-2024_Lexus_GX_550_Overtrail_%28United_States%29_rear_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/c/ca/2024_Lexus_GX_550_Overtrail_%28United_States%29_rear_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "54.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Lexus_GX_20231120.jpg/1920px-Lexus_GX_20231120.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/6/69/Lexus_GX_20231120.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "55.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/LEXUS_GX_%28J150%29_China_%2811%29.jpg/1920px-LEXUS_GX_%28J150%29_China_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/b/bb/LEXUS_GX_%28J150%29_China_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "56.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/LEXUS_GX_%28J150%29_China_%2810%29.jpg/1920px-LEXUS_GX_%28J150%29_China_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/e/e1/LEXUS_GX_%28J150%29_China_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "57.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/LEXUS_GX_%28J150%29_China_%289%29.jpg/1920px-LEXUS_GX_%28J150%29_China_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/d/de/LEXUS_GX_%28J150%29_China_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "58.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/23_Lexus_GX_460_Base.jpg/1920px-23_Lexus_GX_460_Base.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/3/3d/23_Lexus_GX_460_Base.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "59.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/07_Lexus_GX_470_Base.jpg/1920px-07_Lexus_GX_470_Base.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/8/8c/07_Lexus_GX_470_Base.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "60.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/LEXUS_GX_%28J150%29_China_%288%29.jpg/1920px-LEXUS_GX_%28J150%29_China_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/f/fd/LEXUS_GX_%28J150%29_China_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  ],
+  "heroIndex": 0,
+  "facts": {},
+  "pros": "",
+  "cons": "",
+  "descriptionTitle": "レクサスGX550 2026年版解禁！",
+  "hashtags": [
+    "#レクサスGX",
+    "#GX",
+    "#LexusGX",
+    "#Lexus",
+    "#新型車",
+    "#車レビュー",
+    "#自動車"
+  ],
+  "credits": [
+    "Ethan Llamas (Wikimedia Commons): CC BY-SA 4.0 ×16",
+    "Dinkun Chen (Wikimedia Commons): CC BY-SA 4.0 ×23",
+    "Charles from Port Chester, New York (Wikimedia Commons): CC0, CC BY 2.0 ×2",
+    "Husskeyy (Wikimedia Commons): CC BY-SA 4.0 ×3",
+    "Autosdeprimera (Wikimedia Commons): CC BY 3.0",
+    "Bern on Cars (Wikimedia Commons): CC BY 3.0",
+    "COR_Wheels (Flickr): CC BY-SA 2.0",
+    "Mr.choppers (Wikimedia Commons): CC BY-SA 4.0",
+    "Retired electrician (Wikimedia Commons): CC0 ×2",
+    "HJUdall (Wikimedia Commons): CC0 ×4",
+    "TTTNIS (Wikimedia Commons): CC0",
+    "Charles (Wikimedia Commons): CC BY 2.0 ×3",
+    "Nissangeniss (Wikimedia Commons): CC BY-SA 4.0",
+    "全写真クレジット: https://github.com/zaars59208/car-animated/blob/main/jobs/yt-S79VJKt-XDk/credits.txt"
+  ],
+  "decor": {
+    "frame": true,
+    "stickers": true,
+    "stickerEvery": 60,
+    "maxStickers": 1
+  },
+  "transitionSfx": 0.35,
+  "sourceVideo": "S79VJKt-XDk",
+  "youtube": {
+    "queueId": "S79VJKt-XDk",
+    "title": "レクサスGX550 2026年版解禁！",
+    "tags": [
+      "レクサスGX",
+      "GX",
+      "LexusGX",
+      "Lexus",
+      "新型車",
+      "車レビュー",
+      "自動車"
+    ],
+    "categoryId": "2",
+    "publishAt": "2026-11-28T09:00:00Z"
+  }
+}

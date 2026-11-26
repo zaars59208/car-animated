@@ -85,8 +85,14 @@
    "title": "ついに公開！2026年レクサスGX550バージョンL — 誰も知らなかった真実をすべて暴露します！",
    "url": "https://www.youtube.com/watch?v=S79VJKt-XDk",
    "durationSec": 644,
-   "status": "queued",
-   "publishAt": "2026-11-28T09:00:00Z"
+   "status": "making",
+   "publishAt": "2026-11-28T09:00:00Z",
+   "refPublished": null,
+   "job": "yt-S79VJKt-XDk",
+   "startedAt": "2026-11-26T21:55:29+00:00",
+   "car": "Lexus GX",
+   "myTitle": "レクサスGX550 2026年版解禁！",
+   "note": ""
   },
   {
    "id": "TOc2XVEOPDE",
@@ -3181,5 +3187,5 @@
   "name": "Dm Auto reviews . 78K views ",
   "count": 349
  },
- "updated": "2026-11-26T21:41:35+00:00"
+ "updated": "2026-11-26T21:55:29+00:00"
 }
