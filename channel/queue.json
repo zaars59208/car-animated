@@ -102,14 +102,16 @@
    "title": "ついに解禁！トヨタ ピクシス トラック2026年モデル完全公開！誰も知らなかった衝撃の真実をすべて暴露！",
    "url": "https://www.youtube.com/watch?v=TOc2XVEOPDE",
    "durationSec": 645,
-   "status": "making",
+   "status": "made",
    "publishAt": "2026-11-29T09:00:00Z",
    "refPublished": null,
    "job": "yt-TOc2XVEOPDE",
    "startedAt": "2026-11-27T21:37:10+00:00",
    "car": "Toyota Pixis Truck",
    "myTitle": "トヨタピクシストラック2026完全解禁！",
-   "note": ""
+   "note": "",
+   "release": "https://github.com/zaars59208/car-animated/releases/tag/video-yt-TOc2XVEOPDE",
+   "madeAt": "2026-11-27T21:59:29.697092+00:00"
   },
   {
    "id": "ja6UGAgHGOc",
