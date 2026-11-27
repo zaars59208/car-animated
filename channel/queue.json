@@ -102,8 +102,14 @@
    "title": "ついに解禁！トヨタ ピクシス トラック2026年モデル完全公開！誰も知らなかった衝撃の真実をすべて暴露！",
    "url": "https://www.youtube.com/watch?v=TOc2XVEOPDE",
    "durationSec": 645,
-   "status": "queued",
-   "publishAt": "2026-11-29T09:00:00Z"
+   "status": "making",
+   "publishAt": "2026-11-29T09:00:00Z",
+   "refPublished": null,
+   "job": "yt-TOc2XVEOPDE",
+   "startedAt": "2026-11-27T21:37:10+00:00",
+   "car": "Toyota Pixis Truck",
+   "myTitle": "トヨタピクシストラック2026完全解禁！",
+   "note": ""
   },
   {
    "id": "ja6UGAgHGOc",
@@ -3189,5 +3195,5 @@
   "name": "Dm Auto reviews . 78K views ",
   "count": 349
  },
- "updated": "2026-11-27T21:25:55+00:00"
+ "updated": "2026-11-27T21:37:10+00:00"
 }

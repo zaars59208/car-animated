@@ -1,0 +1,234 @@
+{
+  "version": 1,
+  "title": "トヨタ ピクシストラック",
+  "tagline": "",
+  "vehicleType": "truck",
+  "mode": "long",
+  "stage": "render",
+  "pace": "fast",
+  "language": "ja",
+  "burnCaptions": true,
+  "alsoShort": false,
+  "thumbnailText": "トヨタ ピクシストラック",
+  "thumbnailBadge": "徹底解説",
+  "price": "",
+  "priceLabel": "",
+  "dealer": "",
+  "contact": "",
+  "cta": "チャンネル登録お願いします",
+  "specs": [],
+  "voice": {
+    "enabled": true,
+    "voice": "am_michael",
+    "edgeVoice": "ja-JP-KeitaNeural",
+    "speed": 1.08
+  },
+  "images": [
+    {
+      "file": "01.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "02.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "03.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "04.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "05.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "06.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "07.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "08.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "09.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "10.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "11.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "12.jpg",
+      "caption": "",
+      "category": "exterior"
+    },
+    {
+      "file": "13.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "14.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "15.jpg",
+      "caption": "",
+      "category": "auto"
+    },
+    {
+      "file": "16.jpg",
+      "caption": "",
+      "category": "exterior"
+    }
+  ],
+  "remoteImages": [
+    {
+      "file": "01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Toyota%E3%83%BBPixis-Truck_Standard_Part-time_4WD_S510U_Rear.jpg/1920px-Toyota%E3%83%BBPixis-Truck_Standard_Part-time_4WD_S510U_Rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/0/09/Toyota%E3%83%BBPixis-Truck_Standard_Part-time_4WD_S510U_Rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Toyota_Pixis_Truck_second_generation_S510U.JPG/1920px-Toyota_Pixis_Truck_second_generation_S510U.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/6/64/Toyota_Pixis_Truck_second_generation_S510U.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/TOYOTA%E3%83%BBPIXIS-TRUCK_211U_0500.JPG/1920px-TOYOTA%E3%83%BBPIXIS-TRUCK_211U_0500.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/8/86/TOYOTA%E3%83%BBPIXIS-TRUCK_211U_0500.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/The_frontview_of_Toyota_PIXIS_TRUCK_CANTRA_BEANS_2WD_CVT.jpg/1920px-The_frontview_of_Toyota_PIXIS_TRUCK_CANTRA_BEANS_2WD_CVT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/d/d2/The_frontview_of_Toyota_PIXIS_TRUCK_CANTRA_BEANS_2WD_CVT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "05.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/The_frontview_of_Toyota_PIXIS_TRUCK_COROBUN_2WD_CVT.jpg/1920px-The_frontview_of_Toyota_PIXIS_TRUCK_COROBUN_2WD_CVT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/1/10/The_frontview_of_Toyota_PIXIS_TRUCK_COROBUN_2WD_CVT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/The_rearview_of_Toyota_PIXIS_TRUCK_CANTRA_BEANS_2WD_CVT.jpg/1920px-The_rearview_of_Toyota_PIXIS_TRUCK_CANTRA_BEANS_2WD_CVT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/5/55/The_rearview_of_Toyota_PIXIS_TRUCK_CANTRA_BEANS_2WD_CVT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/The_rearview_of_Toyota_PIXIS_TRUCK_COROBUN_2WD_CVT.jpg/1920px-The_rearview_of_Toyota_PIXIS_TRUCK_COROBUN_2WD_CVT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/b/b4/The_rearview_of_Toyota_PIXIS_TRUCK_COROBUN_2WD_CVT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "08.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Toyota_PIXIS_TRUCK_Standard_%283BD-S500U-TBRF%29_front.jpg/1920px-Toyota_PIXIS_TRUCK_Standard_%283BD-S500U-TBRF%29_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Toyota_PIXIS_TRUCK_Standard_%283BD-S500U-TBRF%29_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "09.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Toyota_PIXIS_TRUCK_Standard_%283BD-S500U-TBRF%29_rear.jpg/1920px-Toyota_PIXIS_TRUCK_Standard_%283BD-S500U-TBRF%29_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/9/90/Toyota_PIXIS_TRUCK_Standard_%283BD-S500U-TBRF%29_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "10.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/TOYOTA%E3%83%BBPIXIS-TRUCK_211U_0165.JPG/1920px-TOYOTA%E3%83%BBPIXIS-TRUCK_211U_0165.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/7/7e/TOYOTA%E3%83%BBPIXIS-TRUCK_211U_0165.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "11.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Toyota%E3%83%BBPixis-Truck_Standard_Part-time_4WD_S510U.jpg/1920px-Toyota%E3%83%BBPixis-Truck_Standard_Part-time_4WD_S510U.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Toyota%E3%83%BBPixis-Truck_Standard_Part-time_4WD_S510U.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "12.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/TOYOTA%E3%83%BBPIXIS-TRUCK%E3%83%BBRear120417.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/f/f7/TOYOTA%E3%83%BBPIXIS-TRUCK%E3%83%BBRear120417.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "13.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/TOYOTA%E3%83%BBPIXIS-TRUCK_211U_0164.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/4/4e/TOYOTA%E3%83%BBPIXIS-TRUCK_211U_0164.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "14.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/TOYOTA%E3%83%BBPIXIS-TRUCK120417.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/6/68/TOYOTA%E3%83%BBPIXIS-TRUCK120417.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "15.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/2014-2021_Toyota_Pixis_Truck_Standard.jpg/1920px-2014-2021_Toyota_Pixis_Truck_Standard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/5/58/2014-2021_Toyota_Pixis_Truck_Standard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
+      "file": "16.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/2014-2021_Toyota_Pixis_Truck_Standard_rear.jpg/1920px-2014-2021_Toyota_Pixis_Truck_Standard_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fallback": "https://upload.wikimedia.org/wikipedia/commons/5/5d/2014-2021_Toyota_Pixis_Truck_Standard_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  ],
+  "heroIndex": 0,
+  "facts": {},
+  "pros": "",
+  "cons": "",
+  "descriptionTitle": "トヨタピクシストラック2026完全解禁！",
+  "hashtags": [
+    "#トヨタピクシストラック",
+    "#PixisTruck",
+    "#ToyotaPixisTruck",
+    "#Toyota",
+    "#新型車",
+    "#車レビュー",
+    "#自動車"
+  ],
+  "credits": [
+    "DY5W-sport (Wikimedia Commons): CC BY-SA 4.0 ×2, CC BY-SA 3.0 ×5",
+    "Tatawidepine (Wikimedia Commons): CC BY-SA 4.0",
+    "Tokumeigakarinoaoshima (Wikimedia Commons): CC BY-SA 4.0 ×6",
+    "TTTNIS (Wikimedia Commons): CC0 ×2",
+    "全写真クレジット: https://github.com/zaars59208/car-animated/blob/main/jobs/yt-TOc2XVEOPDE/credits.txt"
+  ],
+  "decor": {
+    "frame": true,
+    "stickers": true,
+    "stickerEvery": 60,
+    "maxStickers": 1
+  },
+  "transitionSfx": 0.35,
+  "sourceVideo": "TOc2XVEOPDE",
+  "youtube": {
+    "queueId": "TOc2XVEOPDE",
+    "title": "トヨタピクシストラック2026完全解禁！",
+    "tags": [
+      "トヨタピクシストラック",
+      "PixisTruck",
+      "ToyotaPixisTruck",
+      "Toyota",
+      "新型車",
+      "車レビュー",
+      "自動車"
+    ],
+    "categoryId": "2",
+    "publishAt": "2026-11-29T09:00:00Z"
+  }
+}
